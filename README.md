@@ -10,6 +10,9 @@ This project explores how trader behavior correlates with market sentiment using
 - `ds_report.pdf`: Exported PDF version of the notebook.
 - `README.md`: Project description and guide.
 
+### Colab Notebooks
+- [notebook_1.ipynb](https://colab.research.google.com/drive/19fU7pBmw9TgGSxpvY_B6LlWKYkfZ0j2a?usp=sharing)
+
 ## Tools Used
 - Python
 - Pandas
